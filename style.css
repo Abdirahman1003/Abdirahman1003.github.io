@@ -1,0 +1,73 @@
+/* Set basic styling for the page */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Style the header section */
+.header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+.header h5 {
+  margin: 0;
+  font-size: 18px;
+}
+
+/* Style the main content area */
+div {
+  margin: 20px;
+}
+
+h4 {
+  margin: 0;
+  font-size: 24px;
+}
+
+h5 {
+  margin: 0;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+/* Style the footer section */
+.footer {
+  background-color: #ccc;
+  text-align: center;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+.footer h6 {
+  margin: 0;
+  font-size: 14px;
+}
+
+/* Style links */
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
