@@ -5,12 +5,11 @@ body {
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  background-color: beige;
 }
 
 /* Style the header section */
 .header {
-  background-color: #333;
-  color: #fff;
   text-align: center;
   padding: 20px;
 }
@@ -38,8 +37,8 @@ h4 {
 h5 {
   margin: 0;
   font-size: 20px;
+  
 }
-
 ul {
   list-style-type: disc;
   margin-left: 20px;
@@ -51,7 +50,6 @@ li {
 
 /* Style the footer section */
 .footer {
-  background-color: #ccc;
   text-align: center;
   padding: 10px;
   margin-top: 50px;
@@ -71,3 +69,4 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
